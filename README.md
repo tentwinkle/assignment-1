@@ -101,6 +101,6 @@ This runs tests to verify that incoming messages are correctly processed.
 
 ## Conclusion
 
-This assignment demonstrates a robust microservices architecture built with Node.js, RabbitMQ, and best practices in testing and documentation. The decoupled design ensures scalability and maintainability, making it a strong foundation for real-world backend systems.
+Any fool can write code that a computer can understand 🤖. Good programmers write code that humans can understand💡
 
-Happy coding!
+Happy coding🚀
