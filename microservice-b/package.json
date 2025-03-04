@@ -1,0 +1,17 @@
+{
+  "name": "microservice-b",
+  "version": "1.0.0",
+  "description": "Microservice B: Receiver",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
